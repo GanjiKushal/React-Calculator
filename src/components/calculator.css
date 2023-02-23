@@ -1,0 +1,12 @@
+.table{
+    margin: auto;
+}
+button{
+    width:100% !important;
+    background-color: blue;
+    color: white !important;
+    font-weight: bold !important;
+}
+table tr{
+    border: none !important
+}
